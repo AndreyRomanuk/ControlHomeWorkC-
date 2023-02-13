@@ -1,0 +1,15 @@
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/bin/Debug/net7.0/ControlHomeWorkC#
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/bin/Debug/net7.0/ControlHomeWorkC#.deps.json
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/bin/Debug/net7.0/ControlHomeWorkC#.runtimeconfig.json
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/bin/Debug/net7.0/ControlHomeWorkC#.dll
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/bin/Debug/net7.0/ControlHomeWorkC#.pdb
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ControlHomeWorkC#.csproj.AssemblyReference.cache
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ControlHomeWorkC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ControlHomeWorkC#.AssemblyInfoInputs.cache
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ControlHomeWorkC#.AssemblyInfo.cs
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ControlHomeWorkC#.csproj.CoreCompileInputs.cache
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ControlHomeWorkC#.dll
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/refint/ControlHomeWorkC#.dll
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ControlHomeWorkC#.pdb
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ControlHomeWorkC#.genruntimeconfig.cache
+/Users/andrey/Desktop/GeekBrain/ControlHomeWorkC#/obj/Debug/net7.0/ref/ControlHomeWorkC#.dll
