@@ -1,6 +1,6 @@
 ﻿string[] strings = InputStringArray();
 int numberStrings = InputInt("Введите максимальную длину строки: ");
-string[] resultArray = FindStringByLength(string, numberStrings);
+string[] resultArray = FindStringByLength(strings, numberStrings);
 
 PrintStringArray(strings, "Исходный массив");
 PrintStringArray(resultArray, "Соответствующие критерию строки");
@@ -10,7 +10,7 @@ string[] FindStringByLength(string[] stringArray, int limit)
     int size = 0;
     string[] resultArray = new string[size];
 
-    for (int i = 0, i < stringArray.Length, i++)
+    for (int i = 0; i < stringArray.Length; i++)
     {
         if (stringArray[i].Length <= limit)
         {
@@ -33,9 +33,9 @@ string[] InputStringArray()
     int length = InputInt("Введите количество элеменктов: ");
     string[] array = new string[length];
 
-    for (int i = 0, i < array.Length, i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        array[i] = InputString($"Введите элемент №{i}: ")
+        array[i] = InputString($"Введите элемент №{i}: ");
     }
     return array;
 }
@@ -47,7 +47,7 @@ string InputString(string text)
     return str;
 }
 
-int Input(string text)
+int InputInt(string text)
 {
     bool isParsed = false;
     int number = 0;
